@@ -15,4 +15,9 @@
 - The Pre-trained weights can be downloaded from [here](https://drive.google.com/drive/folders/1tM1LiTmOOMvsl6cCMf8HJmCpp1aL-p_l?usp=sharing).
 - Optimizer: `Adam`
 - Loss: `BCEWithLogits`
- 
+
+### Results
+- Here are the prediction results obtained from the model.
+![ Result 1 ](results/R1.png)
+![ Result 2 ](results/R2.png)
+![ Result 3 ](results/R3.png)
